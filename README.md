@@ -1,2 +1,3 @@
-# apnacollegedemo
-This is my first github repo
+# apnacollege-demo
+This is my first git repo
+Author - Harsh Shukla
